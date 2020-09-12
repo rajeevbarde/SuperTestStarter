@@ -3,7 +3,7 @@ This is a very quick starter solution to begin with API testing using SuperTest.
  ## Installation
 1. Git clone this repository
 2. Install dependencies  `npm install`
-3. Install Mocha globally
+3. Install Mocha globally `npm i -g mocha`
 
 ## Execute
 Execute test scenarios from project root - `mocha tests/Example.js`
