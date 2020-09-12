@@ -6,7 +6,7 @@ This is a very quick starter solution to begin with API testing using SuperTest.
 3. Install Mocha globally `npm i -g mocha`
 
 ## Execute
-Execute test scenarios from project root - `mocha tests/Example.js`
+Execute test scenarios from project root - `mocha tests/example.js`
 
  ## HTML Report
 Reports are created using *Mochawesome* and stored in folder `mochawesome-report`.
